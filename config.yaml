@@ -38,3 +38,4 @@ params:
 #  github: "yourGitHubUsername"
 #  linkedin: "yourLinkedIn"
   # Add other social networks following the same format
+theme = "PaperMod"

@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://sentimentscope.github.io/posts/my-first-post/</loc>
+    <lastmod>2024-03-18T18:06:44+07:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://sentimentscope.github.io/posts/</loc>
+    <lastmod>2024-03-18T18:06:44+07:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://sentimentscope.github.io/</loc>
+    <lastmod>2024-03-18T18:06:44+07:00</lastmod>
+  </url><url>
+    <loc>https://sentimentscope.github.io/posts/intro-to-sentiment-scope/</loc>
+  </url><url>
+    <loc>https://sentimentscope.github.io/categories/</loc>
+  </url><url>
+    <loc>https://sentimentscope.github.io/tags/</loc>
   </url>
 </urlset>
