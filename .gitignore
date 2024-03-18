@@ -1,6 +1,6 @@
 nul not found
 # Hugo generated files
-public/
+# public/
 resources/_gen/
 hugo_stats.json
 
